@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vandan Bhatt</h1>
 <h3 align="center">An aspiring Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unix2dossss&label=Profile%20views&color=0e75b6&style=flat" alt="unix2dossss" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unix2dossss" alt="unix2dossss" /></a> </p>
-
 - 🔭 I’m currently working on [a Degree Planner Web App](https://github.com/unix2dossss/Degree-Planner)
 
 - 🌱 I’m currently learning **JavaScript (React), TypeScript, DSA**
@@ -28,9 +24,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/unix2dos"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/unix2dos" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=unix2dossss&show_icons=true&locale=en&layout=compact" alt="unix2dossss" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unix2dossss&show_icons=true&locale=en" alt="unix2dossss" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unix2dossss&" alt="unix2dossss" /></p>
