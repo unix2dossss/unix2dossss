@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vandan Bhatt</h1>
 <h3 align="center">An aspiring Software Engineer</h3>
 
+<img alt="banner" width="400" src="https://i.imgur.com/cBlUM17_d.webp?maxwidth=760&fidelity=grand" />
+
 - 🔭 I’m currently working on [a Degree Planner Web App](https://github.com/unix2dossss/Degree-Planner)
 
 - 🌱 I’m currently learning **JavaScript (React), TypeScript, DSA**
