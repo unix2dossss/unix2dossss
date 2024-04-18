@@ -1,5 +1,5 @@
 ```sh
-$ nano aboutMe.md
+$  nano aboutMe.md
 ```
 
 <p align="center">
