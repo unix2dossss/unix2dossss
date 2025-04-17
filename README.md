@@ -15,5 +15,30 @@ $  nano aboutMe.md
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unix2dossss&" alt="unix2dossss" /></p> -->
 
-##### my weird spontaneous ideas below.
-###### **exercise caution while scrolling** v
+### Vandan Bhatt
+
+#### Developer by day ☀ and creator by night 🌙
+
+Linux enthusiast sharing tips & tools on [Unix2Dos](https://www.youtube.com/c/unix2dos) 🐧    
+Passionate about building things that are simple, fast, and beautiful ✨ 
+
+- 🏊‍♂️ I unwind with a game of badminton or a swim
+- 🧠 Always exploring: open source, minimalist UI, and creative tech
+- 💬 ping me about **development**, **linux**, **ui/ux**, **design thinking**
+<br/>
+
+```javascript
+const vandan = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "Ruby", "Python", "Java", "C", "C#", "HTML", "CSS"],
+  tools: ["React", "Next.js", "Ruby on Rails", "Ember.js", "ASP.NET", "MantineUI", "Firebase", "Docker"],
+  architecture: ["monolith", "modular", "component-driven"],
+  techCommunities: {
+    wdcc: "Frontend Developer",
+    devs: ["Executive", "Mentor"],
+    spacehub: "Lead Developer",
+    unix2dos: "Founder & Linux YouTube Creator"
+  },
+  challenge: "Redefining inventory workflows with a modern web app for smarter, faster stock management"
+}
+```
